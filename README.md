@@ -1,2 +1,1 @@
-# Practice repo 
-# First repo on github 
+# Python practice question 
